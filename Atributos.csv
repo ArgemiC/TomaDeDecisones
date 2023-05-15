@@ -1,0 +1,36 @@
+﻿Atributo;Tipo;Otra palabra
+Barato;2PALABRAS;Caro
+Belleza natural;PREFIJOCON;
+Seguridad;PREFIJOCONMAS;
+Prestaciones;PREFIJOCONMAS;
+Bonito;2PALABRAS;Feo
+Potente;PREFIJOMAS;
+Veloz;2PALABRAS;Lento
+Duradero;PREFIJOMAS;
+Ecológigo;PREFIJOMAS;
+Personalizable;PREFIJOMAS;
+Diseño;PREFIJOMEJOR;
+Usable;PREFIJOMAS;
+Ligero;2PALABRAS;Pesado
+Cultural;PREFIJOMAS;
+Ocio;PREFIJOMAS;
+Marca;PREFIJOCON;
+Garantía;PREFIJOCONMAS;
+Batería;PREFIJOCONMAS;
+Compatible;PREFIJOMAS;
+Comodo;PREFIJOMAS;
+Reparaciones;PREFIJOMEJOR;
+Accesorios;PREFIJOCONMAS;
+Alojamiento;PREFIJOMEJOR;
+Gastronomía;PREFIJOMEJOR;
+Comunicado;PREFIJOMEJOR;
+Clima;PREFIJOMEJOR;
+Hospitalidad;PREFIJOMEJOR;
+Internet;PREFIJOCON;
+Superficie;PREFIJOCONMAS;
+Jardín;PREFIJOCON;
+Aparcamiento;PREFIJOCON;
+Servicios públicos;PREFIJOCONMAS;
+Mantenimiento;PREFIJOMEJOR;
+Muebles;PREFIJOCON;
+Amplio;2PALABRAS;Estrecho
